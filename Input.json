@@ -1,0 +1,15 @@
+{
+  "appName": "Services.msc",
+  "appAutomationName": "Services",
+  "events": [
+    
+    {
+      "autoId": "4098",
+      "action": "getResult"
+    },
+    {
+      "autoId": "Header",
+      "action": "getResult"
+    }
+  ]
+}

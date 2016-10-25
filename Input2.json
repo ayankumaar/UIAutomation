@@ -1,0 +1,1 @@
+{"appName":"calc.exe","appAutomationName":"Calculator","events":[{"autoId":"num4Button","action":"click"},{"autoId":"plusButton","action":"click"},{"autoId":"num6Button","action":"click"},{"autoId":"equalButton","action":"click"}]}
