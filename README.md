@@ -10,3 +10,5 @@ Third Party Library: You need to download and add a reference to the NewtonSoft.
 Tool Used: I used INSPECT.EXE to look for the AutomationId of an element and the code looks for that particular Id of an element to find it out.
 
 Issue: But, in some cases although I have provided the correct AutomationId, the managed code has not been able to find it. I have read a couple of blogs where people have talked about issues between managed and un-managed (INSPECT.EXE is written in un-managed) code. That issue is yet to be fixed.
+
+Source Code: To take a look at the source code check the Program.cs file.
